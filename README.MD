@@ -32,12 +32,3 @@ Donde dice "passlist.txt" es el nombre del listado de posibles contraseñas.
 
 Luego ejecutan y esperen a que de con la contraseña...!
 
-#########################VIDEO EJEMPLO########################
-
-- LINK: https://www.youtube.com/channel/UCAIFSeW0e6jTmm8SfWQ8FBg
-
-- FACEBOOK ME: https://m.facebook.com/groups/142565756559228
-
-- MENSAJE: NUNCA DEJEN DE APRENDER
-
-############################################################
